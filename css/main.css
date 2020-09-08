@@ -1,0 +1,91 @@
+body { 
+	margin-left:0px;
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	font-size:20px;
+	margin:10px;
+	line-height: 1.0;
+	font-family:Georgia,"Times New Roman",Time,serif;
+	color:black;
+	
+}
+.subhead{
+	font-family:Georgia,"Times New Roman",Time,serif;
+	font-size:17px;
+	color:black;
+	font-weight:bold;
+	padding-left:0px;
+	background-color:skyblue;
+}
+.bodytext{
+	font-family:Georgia,"Times New Roman",Time,serif;
+	font-size:10px;
+	color:black;
+	font-weight:normal;
+	padding-left:10px;
+	background-color:pink;
+}
+.title{
+	font-family:Georgia,"Times New Roman",Time,serif;
+	font-size:16px;
+	color:black;
+	font-weight:bold;
+	padding-left:0px;
+	background-color:Crimson;
+}
+.drop{
+	font-family:"algerian",Time,serif;
+	font-size:22px;
+	color:black;
+	padding-left:0px;
+	background-color:white;
+}
+.message{
+	font-family:Georgia,"Times New Roman",Time,serif;
+	font-size:17px;
+	color:black;
+	font-weight:italic;
+	
+	
+}
+.text{
+	font-family:Georgia,"Times New Roman",Time,serif;
+	font-size:17px;
+	color:black;
+	font-weight:italic;
+	background-color:black;
+	
+}
+.footer{
+	font-family:Georgia,"Times New Roman",Time,serif;
+	font-size:16px;
+	color:black;
+	font-weight:bold;
+	padding-left:0px;
+	background-color:Crimson;
+}
+.scrollmenu{
+	font-family:Georgia,"Times New Roman",Time,serif;
+	font-size:16px;
+	color:black;
+	font-weight:bold;
+	padding-left:0px;
+	background-color:yellow;
+	
+}
+.menu{
+	font-family:"cambria",Time,serif;
+	font-size:20px;
+	font-weight:bold;
+	color:black;
+	padding-left:0px;
+	
+}
+.head
+{
+	font-family:"cambria",Time,serif; 
+	color:black;
+	font-size:15px;
+	align=left;
+}
